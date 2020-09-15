@@ -1,0 +1,2 @@
+# Footcontroller-ArduinoMicro
+パチモンのDDR用フットコントローラをArduino Microを通して、キーボード入力におきかえるためのプログラムです。
